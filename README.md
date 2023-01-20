@@ -32,12 +32,9 @@
 # Setup DNS Cloudflare
 - `setup DNS Cloudflare like this`
 
-![cf](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/cf.jpg)
+![cf](https://github.com/hackerfour/v2ray-syamic-patch/blob/5878e3cda11b0219647313b2d4f17516ec7629a3/cf.jpg)
 # Installation
 |        Link         |  Xray Autoscript  |
 |---------------------|-------------------|
 | via WGET | `bash -c "$(wget -qO- https://s.id/xraysc)"` |
 | via CURL | `bash -c "$(curl -fsSL https://s.id/xraysc)"` |
-
-# Screenshot
-![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
