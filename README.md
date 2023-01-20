@@ -3,13 +3,13 @@
 
 |  SERVICE  |  NETWORK PORT  |
 |---------- |--------|
-| Vmess WS TLS (multipath)  | 443 |
+| Vmess WS TLS (multipath/dynamicpath)  | 443 |
 | Vless WS TLS  | 443 |
 | Trojan WS TLS  | 443 |
 | Socks5 WS TLS  | 443 |
 | Shadowsocks WS TLS (aes-256-gcm)  | 443 |
 | Shadowsocks 2022 WS TLS (2022-blake3-aes-256-gcm)  | 443 |
-| Vmess WS (multipath)  | 80 |
+| Vmess WS (multipath/dynamicpath)  | 80 |
 | Vless WS  | 80 |
 | Trojan WS  | 80 |
 | Socks5 WS  | 80 |
@@ -39,12 +39,12 @@
 | via WGET | `bash -c "$(wget -qO- https://s.id/xraysc)"` |
 | via CURL | `bash -c "$(curl -fsSL https://s.id/xraysc)"` |
 
-Indonesian:
+Indonesian: 
 Pengen Script Premium Lengkap dengan SSHWS ?
 Hubungi Saya :
 https://api.whatsapp.com/send?phone=15878472469
 
-English
+English: 
 Want a Complete Premium Script with SSHWS?
 Contact me :
 https://api.whatsapp.com/send?phone=15878472469
