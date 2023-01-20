@@ -1,5 +1,5 @@
 # x2ray Dynamic Path Update
-- `Note !!! for multipath please change to Xray-core mod in menu script`
+- `Note !!! for multipath/dynamicpath please change to Xray-core mod in menu script`
 
 |  SERVICE  |  NETWORK PORT  |
 |---------- |--------|
