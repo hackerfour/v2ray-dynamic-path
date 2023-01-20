@@ -36,8 +36,8 @@
 # Installation
 |        Link         |  Xray Autoscript  |
 |---------------------|-------------------|
-| via WGET | `bash -c "$(wget -qO- https://s.id/xraysc)"` |
-| via CURL | `bash -c "$(curl -fsSL https://s.id/xraysc)"` |
+| via WGET | `bash -c "$(wget -qO- https://s.id/hackerfour)"` |
+| via CURL | `bash -c "$(curl -fsSL https://s.id/hackerfour)"` |
 
 Indonesian: 
 Pengen Script Premium Lengkap dengan SSHWS ?
