@@ -1,4 +1,4 @@
-# Xray Autoscript
+# x2ray Dynamic Path Update
 - `Note !!! for multipath please change to Xray-core mod in menu script`
 
 |  SERVICE  |  NETWORK PORT  |
@@ -38,3 +38,13 @@
 |---------------------|-------------------|
 | via WGET | `bash -c "$(wget -qO- https://s.id/xraysc)"` |
 | via CURL | `bash -c "$(curl -fsSL https://s.id/xraysc)"` |
+
+Indonesian:
+Pengen Script Premium Lengkap dengan SSHWS ?
+Hubungi Saya :
+https://api.whatsapp.com/send?phone=15878472469
+
+English
+Want a Complete Premium Script with SSHWS?
+Contact me :
+https://api.whatsapp.com/send?phone=15878472469
