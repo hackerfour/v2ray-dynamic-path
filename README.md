@@ -32,7 +32,7 @@
 # Setup DNS Cloudflare
 - `setup DNS Cloudflare like this`
 
-![cf](https://github.com/hackerfour/v2ray-syamic-patch/blob/5878e3cda11b0219647313b2d4f17516ec7629a3/cf.jpg)
+![cf](isi link)
 # Installation
 |        Link         |  Xray Autoscript  |
 |---------------------|-------------------|
